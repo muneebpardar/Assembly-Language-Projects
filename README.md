@@ -1,5 +1,5 @@
 # Assembly Language Projects
-A collection of assembly language projects for various applications. These projects were developed as part of the **Microprocessors course**.
+A collection of assembly language projects for various applications. These projects were developed as part of the **Microprocessors course**
 
 ## Table of Contents
 - [Project List](#project-list)
