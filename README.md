@@ -37,7 +37,7 @@ A program for managing medical store transactions. Includes functionality for bu
 A system to manage parking spaces for different vehicle types. Tracks the number of vehicles parked, calculates charges, and maintains records.
 
 ### Shoes Management System
-A program for managing shoe inventory and sales. Tracks stock, calculates total sales, and displays statistics for different shoe categories.
+A program for managing shoe inventory and sales. Tracks stock, calculates total sales, and displays statistics for different shoe categories
 
 ---
 
